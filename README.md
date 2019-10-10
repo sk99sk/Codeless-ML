@@ -5,3 +5,9 @@ This can be also used to compares the outputs given by different algorithms and 
 ## Highlights:
 - flexible interface
 - real time data comparison
+
+## Language
+- Python 
+
+## Usages
+- Modern data processing and artficial learning in robotics and programming segment
